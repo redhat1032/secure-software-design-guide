@@ -176,13 +176,14 @@ This guide is designed to help you prepare for the **WGU D487 Secure Software De
 
 ## **9. Practice Questions** <a name="practice-questions"></a>
 
-Check out the [Practice Questions Sheet](#) for scenario-based and multiple-choice questions.
+Check out the [Practice Questions Sheet](Practice_Questions.md) for scenario-based and multiple-choice questions.
 
 ---
 
 ## **10. Cheat Sheet: CISSP Domain 8** <a name="cissp-cheat-sheet"></a>
 
-Find the detailed **CISSP Domain 8 Cheat Sheet** [here](#).
+Find the detailed **CISSP Domain 8 Cheat Sheet** [here](CISSP_Domain_8_Cheat_Sheet.md).
+
 
 ---
 
