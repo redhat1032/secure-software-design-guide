@@ -1,6 +1,6 @@
 # Comprehensive Study Guide for Secure Software Design (D487 + CISSP Domain 8)
 
-This guide is designed to help you prepare for the **WGU D487 Secure Software Design exam** and understand key topics from **Domain 8 of the CISSP**. The guide covers fundamental concepts and practical applications and includes study questions, cheat sheets, and tools to solidify your knowledge.
+This guide is designed to help you prepare for the **WGU D487 Secure Software Design exam** and understand key topics from **Domain 8 of the CISSP**. The guide covers fundamental concepts, practical applications, and includes study questions, cheat sheets, and tools to solidify your knowledge.
 
 ---
 
